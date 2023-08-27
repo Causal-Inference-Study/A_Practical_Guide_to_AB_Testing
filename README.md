@@ -15,6 +15,10 @@
 <img src="https://image.yes24.com/goods/110044064/XL"  width="200" height="300">
 
 ---
+## 📝 스터디 참여자
+- [양현승](https://github.com/SmilingSammy)
+- [채정현](https://github.com/luna-chae)
+- [이혜람](https://github.com/dotruni)
 
 ## 🗓 스터디 일정
 
