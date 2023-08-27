@@ -14,6 +14,9 @@
 - 책: [🔗](https://www.yes24.com/Product/Goods/110044064)<br>
 <img src="https://image.yes24.com/goods/110044064/XL"  width="200" height="300">
 
+- 스터디 직후, 선정 도서: [🔗](https://www.yes24.com/Product/Goods/117080982)<br>
+<img src="https://image.yes24.com/goods/117080982/XL"  width="100" height="150">
+
 ---
 ## 📝 스터디 참여자
 - [양현승](https://github.com/SmilingSammy)
